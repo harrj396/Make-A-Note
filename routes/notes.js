@@ -1,4 +1,5 @@
 const note = require('express').Router();
-var express = require('express')
+const fs = require('fs');
+
 
 module.exports = note;
